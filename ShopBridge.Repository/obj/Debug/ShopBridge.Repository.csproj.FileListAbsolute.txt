@@ -1,0 +1,17 @@
+c:\users\anand\documents\visual studio 2015\Projects\ShopBridge\ShopBridge.Repository\bin\Debug\ShopBridge.Repository.dll.config
+c:\users\anand\documents\visual studio 2015\Projects\ShopBridge\ShopBridge.Repository\bin\Debug\ShopBridge.Repository.dll
+c:\users\anand\documents\visual studio 2015\Projects\ShopBridge\ShopBridge.Repository\bin\Debug\ShopBridge.Repository.pdb
+c:\users\anand\documents\visual studio 2015\Projects\ShopBridge\ShopBridge.Repository\bin\Debug\DelegateDecompiler.dll
+c:\users\anand\documents\visual studio 2015\Projects\ShopBridge\ShopBridge.Repository\bin\Debug\DelegateDecompiler.EntityFramework.dll
+c:\users\anand\documents\visual studio 2015\Projects\ShopBridge\ShopBridge.Repository\bin\Debug\EntityFramework.dll
+c:\users\anand\documents\visual studio 2015\Projects\ShopBridge\ShopBridge.Repository\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\anand\documents\visual studio 2015\Projects\ShopBridge\ShopBridge.Repository\bin\Debug\Mono.Reflection.dll
+c:\users\anand\documents\visual studio 2015\Projects\ShopBridge\ShopBridge.Repository\bin\Debug\System.ValueTuple.dll
+c:\users\anand\documents\visual studio 2015\Projects\ShopBridge\ShopBridge.Repository\bin\Debug\EntityFramework.xml
+c:\users\anand\documents\visual studio 2015\Projects\ShopBridge\ShopBridge.Repository\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\anand\documents\visual studio 2015\Projects\ShopBridge\ShopBridge.Repository\bin\Debug\System.ValueTuple.xml
+c:\users\anand\documents\visual studio 2015\Projects\ShopBridge\ShopBridge.Repository\obj\Debug\ShopBridge.Repository.dll
+c:\users\anand\documents\visual studio 2015\Projects\ShopBridge\ShopBridge.Repository\obj\Debug\ShopBridge.Repository.pdb
+c:\users\anand\documents\visual studio 2015\Projects\ShopBridge\ShopBridge.Repository\bin\Debug\ShopBridge.Model.dll
+c:\users\anand\documents\visual studio 2015\Projects\ShopBridge\ShopBridge.Repository\bin\Debug\ShopBridge.Model.pdb
+c:\users\anand\documents\visual studio 2015\Projects\ShopBridge\ShopBridge.Repository\obj\Debug\ShopBridge.Repository.csprojResolveAssemblyReference.cache

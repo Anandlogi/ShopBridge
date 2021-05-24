@@ -1,0 +1,5 @@
+c:\users\anand\documents\visual studio 2015\Projects\ShopBridge\ShopBridge.Model\bin\Debug\ShopBridge.Model.dll
+c:\users\anand\documents\visual studio 2015\Projects\ShopBridge\ShopBridge.Model\bin\Debug\ShopBridge.Model.pdb
+c:\users\anand\documents\visual studio 2015\Projects\ShopBridge\ShopBridge.Model\obj\Debug\ShopBridge.Model.dll
+c:\users\anand\documents\visual studio 2015\Projects\ShopBridge\ShopBridge.Model\obj\Debug\ShopBridge.Model.pdb
+c:\users\anand\documents\visual studio 2015\Projects\ShopBridge\ShopBridge.Model\obj\Debug\ShopBridge.Model.csprojResolveAssemblyReference.cache

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="f8d151f86f754d00988e8f68f939b069" Name="Diagram1">
+        <EntityTypeShape EntityType="ShopBridgeModel.BillingAddressDetail" Width="1.5" PointX="1.5" PointY="21" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShopBridgeModel.CartProductDetail" Width="1.5" PointX="3" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShopBridgeModel.OrderDetail" Width="1.5" PointX="3.75" PointY="21.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShopBridgeModel.OrderedItemDetail" Width="1.5" PointX="6" PointY="7.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShopBridgeModel.ProductCategory" Width="1.5" PointX="3.75" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShopBridgeModel.ProductDetail" Width="1.5" PointX="0.75" PointY="6.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShopBridgeModel.ProductsCategoryMapping" Width="1.5" PointX="6" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShopBridgeModel.WishProductDetail" Width="1.5" PointX="3" PointY="17.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShopBridgeModel.OrderSequence" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="ShopBridgeModel.FK_OrderDetails_BillingAddressDetails" ManuallyRouted="false" />
+        <AssociationConnector Association="ShopBridgeModel.FK_CartProductDetails_ProductDetails" ManuallyRouted="false" />
+        <AssociationConnector Association="ShopBridgeModel.FK_OrderedItemDetails_OrderDetails" ManuallyRouted="false" />
+        <AssociationConnector Association="ShopBridgeModel.FK_OrderedItemDetails_OrderDetails1" ManuallyRouted="false" />
+        <AssociationConnector Association="ShopBridgeModel.FK_OrderedItemDetails_ProductDetails" ManuallyRouted="false" />
+        <AssociationConnector Association="ShopBridgeModel.FK_OrderedItemDetails_ProductDetails1" ManuallyRouted="false" />
+        <AssociationConnector Association="ShopBridgeModel.FK_ProductsCategoryMapping_ProductCategory" ManuallyRouted="false" />
+        <AssociationConnector Association="ShopBridgeModel.FK_ProductsCategoryMapping_ProductDetails" ManuallyRouted="false" />
+        <AssociationConnector Association="ShopBridgeModel.FK_WishProductDetails_ProductDetails" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="ShopBridgeModel.ProductImage" Width="1.5" PointX="3" PointY="8.875" />
+        <AssociationConnector Association="ShopBridgeModel.FK_ProductImages_ProductDetails" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

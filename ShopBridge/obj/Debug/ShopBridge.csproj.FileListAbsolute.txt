@@ -1,0 +1,2 @@
+c:\users\anand\documents\visual studio 2015\Projects\ShopBridge\ShopBridge\bin\Debug\ShopBridge.exe.config
+c:\users\anand\documents\visual studio 2015\Projects\ShopBridge\ShopBridge\obj\Debug\ShopBridge.csprojResolveAssemblyReference.cache
